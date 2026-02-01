@@ -1,0 +1,2 @@
+"""Prompt Injection Gym package."""
+
