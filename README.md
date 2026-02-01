@@ -6,7 +6,7 @@
 A tiny, reproducible playground to **attack** and **defend** a tool-using LLM agent.
 
 Built with:
-- Streamlit (UI)
+- Streamlit (UI) 
 - LangChain + LangGraph (agent + control flow)
 - Groq (LLM backend)
 
@@ -46,5 +46,6 @@ Run:
 ```bash
 streamlit run app.py
 ```
+
 
 
