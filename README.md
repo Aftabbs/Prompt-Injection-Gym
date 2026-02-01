@@ -1,5 +1,8 @@
 # Prompt Injection Gym
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/00443adc-24a4-469e-a076-f272b547585f" />
+
+
 A tiny, reproducible playground to **attack** and **defend** a tool-using LLM agent.
 
 Built with:
@@ -12,6 +15,11 @@ Built with:
 - Multiple **defenses** (system hardening, tool allowlist, output redaction)
 - Automatic **judge + score** (did the model leak the secret / attempt sensitive tools?)
 - Downloadable **trace** (JSON) for replay/debugging
+
+
+<img width="933" height="406" alt="image" src="https://github.com/user-attachments/assets/a9319fbd-94cd-4c41-a252-601790e16870" />
+
+<img width="950" height="429" alt="image" src="https://github.com/user-attachments/assets/c5eb35dc-3610-4501-8736-f71e8a21d253" />
 
 ## Setup
 
@@ -39,7 +47,4 @@ Run:
 streamlit run app.py
 ```
 
-## Notes
-- `.env` is ignored by git via `.gitignore`. **Do not commit secrets**.
-- If you accidentally committed a key, rotate it immediately.
 
