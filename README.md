@@ -1,5 +1,6 @@
 # Prompt Injection Gym    
 
+   
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/00443adc-24a4-469e-a076-f272b547585f" />
  
   
@@ -46,6 +47,7 @@ Run:
 ```bash
 streamlit run app.py
 ```
+
 
 
 
